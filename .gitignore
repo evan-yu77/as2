@@ -1,0 +1,4 @@
+build/
+*.o
+*.swp
+light_sampler
